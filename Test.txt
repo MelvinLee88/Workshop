@@ -3,3 +3,4 @@ notepad Text.txt
 change
 lul
 ko
+kk
